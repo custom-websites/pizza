@@ -1,13 +1,12 @@
 img.bg {
-  width: 80%;
+  width: 50%;
 }
 
 img.topping {
-  width: 30%;
+  width: 40%;
 }
 
 #drag-1 {
-  width: 25%;
   touch-action: none;
   user-select: none;
   transform: translate(0px, 0px);
